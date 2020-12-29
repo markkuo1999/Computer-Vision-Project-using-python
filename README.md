@@ -1,1 +1,9 @@
 # Computer-Vision-Project-using-python
+1. Image_Color_Transformation
+2. NegativeTransformation_and_LogTransformation
+3. Image_Equalization
+4. Skin_Color_Detection
+5. Edge_Detection
+6. Morphological
+7. PCA_Ellipse_Fitting
+8. Face_Detection
